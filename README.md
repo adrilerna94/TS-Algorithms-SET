@@ -1,4 +1,4 @@
-# Javascript Algorithms
+# Typescript Algorithms
 
 ## SETS
 
